@@ -12,7 +12,7 @@
     "dark": "#4e3b2e",
     "background": {
       "dark": "#111620",
-      "light": "#FFE3CB"
+      "light": "#FFF9F5"
     },
     "anchors": {
       "from": "#4e3b2e",
