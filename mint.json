@@ -7,15 +7,15 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#4e3b2e",
+    "primary": "#9D775D",
     "light": "#ffcda3",
-    "dark": "#4e3b2e",
+    "dark": "#9D775D",
     "background": {
       "dark": "#111620",
       "light": "#FFF9F5"
     },
     "anchors": {
-      "from": "#4e3b2e",
+      "from": "#9D775D",
       "to": "#ffcda3"
     }
   },
@@ -88,8 +88,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "instagram": "https://instagram.com/thomas_mzu",
+    "github": "https://github.com/toms-beatz",
+    "linkedin": "https://www.linkedin.com/"
   }
 }
