@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Kouiz",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -10,6 +10,10 @@
     "primary": "#9D775D",
     "light": "#FFE3CB",
     "dark": "#9D775D",
+    "background": {
+      "dark": "#232D41",
+      "light": "#FFFFFF"
+    },
     "anchors": {
       "from": "#9D775D",
       "to": "#FFE3CB"
