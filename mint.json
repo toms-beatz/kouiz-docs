@@ -1,10 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Kouiz",
-  "logo": {
-    "dark": "/logo/logo.svg",
-    "light": "/logo/logo.svg"
-  },
+  "logo": "/logo/logo.svg",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#9D775D",
